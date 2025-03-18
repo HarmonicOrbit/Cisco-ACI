@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.5)  18 MAR 2025 13:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.5)  18 MAR 2025 14:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1027,11 +1027,12 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
  (./Sections/introduction.tex
 
 pdfTeX warning: pdflatex (file ./Pics/traditional_topology.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Pics/traditional_topology.pdf, id=4, 592.13219pt x 424.4658pt>
+<Pics/traditional_topology.pdf, id=4, 605.3817pt x 366.40887pt>
 File: Pics/traditional_topology.pdf Graphic file (type pdf)
 <use Pics/traditional_topology.pdf>
 Package pdftex.def Info: Pics/traditional_topology.pdf  used on input line 5.
-(pdftex.def)             Requested size: 355.28204pt x 254.68143pt.
+(pdftex.def)             Requested size: 363.23181pt x 219.84702pt.
+Package mdframed Info: Not enough space on this page on input line 27.
 [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc} <./Pics/traditional_topology.pdf>]
@@ -1061,13 +1062,13 @@ L3 programming layer <2024-02-20>
 Here is how much of TeX's memory you used:
  22142 strings out of 474116
  435658 string characters out of 5743682
- 1934187 words of memory out of 5000000
+ 1933187 words of memory out of 5000000
  44107 multiletter control sequences out of 15000+600000
  570489 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,6n,96p,1446b,369s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on template.pdf (3 pages, 243728 bytes).
+Output written on template.pdf (3 pages, 245783 bytes).
 PDF statistics:
  93 PDF objects out of 1000 (max. 8388607)
  60 compressed objects within 1 object stream

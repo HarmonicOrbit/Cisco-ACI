@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1742298726.17852 "/Users/konstantinoszouridakes/Documents/Latex/Cisco ACI/template.tex" "template.pdf" "template" 1742298727.01864 0
+["pdflatex"] 1742302178.30858 "/Users/konstantinoszouridakes/Documents/Latex/Cisco ACI/template.tex" "template.pdf" "template" 1742302179.13719 0
   "../packages.tex" 1741371035.06085 4983 2d756f3589a4fe447c941cc5d81205bf ""
   "/Users/konstantinoszouridakes/Documents/Latex/Cisco ACI/template.tex" 1742226945.37226 306 76c1d39eba486d0e25be0206e01b59d9 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
@@ -176,12 +176,12 @@
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1733411728 8221419 86584e4089ed8bc78238e8efb60faae7 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
   "Pics/aci_topology.pdf" 1742298706.16298 45297 863c9c08bb3a4c883185b57ac4988e02 ""
-  "Pics/traditional_topology.pdf" 1742290283.34885 50305 f4dd0787f889bc6c90fdbf5c01241883 ""
+  "Pics/traditional_topology.pdf" 1742302158.81706 51770 748c99ff2349a312204c3516da653b02 ""
   "Pics/vxlan.pdf" 1742297469.66499 35040 6bae4020fb1cb3e7028345baedab581a ""
-  "Sections/introduction.tex" 1742298725.91721 4182 5a8261ccf4b02b5b5b02bc58c13b2569 ""
-  "template.aux" 1742298726.89181 358 8042db6baa60e01082e0385de0c2734f "pdflatex"
+  "Sections/introduction.tex" 1742302178.06519 4182 5a8261ccf4b02b5b5b02bc58c13b2569 ""
+  "template.aux" 1742302179.01378 358 8042db6baa60e01082e0385de0c2734f "pdflatex"
   "template.tex" 1742226945.37226 306 76c1d39eba486d0e25be0206e01b59d9 ""
-  "template.toc" 1742298726.89244 159 22d29c00f8dadad83c0775998c9baf78 "pdflatex"
+  "template.toc" 1742302179.01436 159 22d29c00f8dadad83c0775998c9baf78 "pdflatex"
   (generated)
   "template.aux"
   "template.log"
