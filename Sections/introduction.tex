@@ -1,6 +1,8 @@
 \subsection{What is Cisco ACI?}
 ACI stands for Application Centric Infrastructure. It is a software-defined networking solution developed by Cisco Systems. It is designed to provide a centralized, policy-driven automation solution for managing and deploying applications across data center networks. ACI is built on a foundation of \textbf{software-defined networking (SDN)} principles, which separate the network control plane from the data plane, allowing for greater flexibility and agility in network management, in contrast to traditional networking solutions that are based on hardware-centric architectures.
 
+Automation is achieved through the most crucial ACI feauture, the \textbf{Cisco APIC}. APIC also allows network scalability and flexibility, policy-based configuration and real-time monitoring and analytics. Compared to its traditional counterpart, APIC can be seen as a black box in the physical aspect of a network architecture. Any expansions or modifications to a network can be done by applying changes in the code. As a result, we will not have to worry about changing any hardware configurations or faulty equipment.
+
 \begin{center}
     \includegraphics[scale=0.6]{Pics/traditional_topology.pdf}
 \end{center}
@@ -33,7 +35,7 @@ Why is the traditional network architecture no longer sufficient for modern data
 \end{center}
 
 Cisco developed a 2-tier spine and leaf architecture, along with the VXLAN-based overlay system, which allowed for efficient handling of traffic between any two endpoints in the fabric and consistent latency for workloads.
-
+\newpage
 \begin{note}
     \begin{center}
         \textbf{VXLAN}
@@ -44,3 +46,7 @@ Cisco developed a 2-tier spine and leaf architecture, along with the VXLAN-based
     \includegraphics[scale=0.6]{Pics/vxlan.pdf}
    \end{center} 
 \end{note}
+
+Regarding security, ACI uses the \textbf{Zero Trust} security model. With the Zero Trust security model, even if the firewall allows some specific traffic in the network and regardless of where the request originates, it must still be verified. It works on the \textit{never trust, always verify} philosophy.
+
+ACI provides the \textbf{Cisco Nexus Dashboard Platform}, an easy to scale, use and maintain platform that provides policy and connectivity automation, visibility, and analytics tools.
